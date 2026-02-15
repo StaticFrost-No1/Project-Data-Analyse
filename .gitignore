@@ -1,5 +1,8 @@
-.venv
+# Python Umgebung & Cache
+venv/
 __pycache__/
 *.pyc
-data/
-.DS_Store
+.python-version
+
+# Der "data/" Ordner ohne Inhalt
+data/*
