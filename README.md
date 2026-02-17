@@ -1,4 +1,4 @@
-# Consumer Complaints Analysis (NLP & Topic Modeling)
+# Consumer Complaints Analysis
 
 Dieses Repository enthält die Codebasis für das Portfolio im Bereich Data Science / Data Analysis. 
 Ziel des Projekts ist der Vergleich verschiedener NLP-Verfahren zur Vektorisierung und Themenmodellierung sowie die Entwicklung einer optimierten Pipeline zur Verarbeitung unstrukturierter Textdaten aus dem "Consumer Complaints" Datensatz.
