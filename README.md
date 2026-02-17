@@ -39,7 +39,7 @@ Falls `pyenv` noch nicht installiert ist, folge bitte dieser Anleitung:
 ```bash
 curl https://pyenv.run | bash
 ```
-Folgen Sie den Bildschirmanweisungen, um pyenv zur Shell hinzuzufügen.
+Folge den Bildschirmanweisungen, um pyenv zur Shell hinzuzufügen.
 </details>
 
 2. **Repository klonen:**
